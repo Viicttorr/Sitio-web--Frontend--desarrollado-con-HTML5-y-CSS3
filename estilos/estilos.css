@@ -1,0 +1,117 @@
+#titulo-pagina{
+    background-color: rgb(236, 50, 50);
+    margin: 0 auto;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+#fondo1{
+    background-color: antiquewhite;
+}
+#titulo2{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+#parrafo1{
+    color: black;
+    text-align: justify;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 18px;
+
+}
+#fotocentral{
+    display: flex;
+    padding-left: 600px;
+    height: 420px;
+    width: 600px;
+    padding-top: 100px;
+
+}
+nav ul{
+    list-style: none;
+    background-color: rgb(167, 172, 180);
+    margin: 0.1px;
+    height: 50px;
+    width: 1700;
+    display: flex;
+    gap: 350px;
+    padding-left: 350px;
+    padding-right: 150px;
+    
+}
+nav li{
+    
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    font-weight: bold;
+    
+    
+}
+nav li:hover{
+    background-color: rgb(84, 83, 88);
+    color: rgb(235, 230, 230);
+    font-weight: bold;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}
+#subtitulo1{
+    color: black;
+    font-weight: bold;
+    padding-left: 150px;
+    padding-top: 100px;
+}
+#titulo-varios{
+    color: black;
+    font-weight: bold;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    gap: 50px;
+}
+#parrafo2{
+    color: rgb(0, 0, 0);
+    width: 500px;
+    height: 350px;
+    text-align: justify;
+}
+#parrafo3{
+    color: rgb(0, 0, 0);
+    width: 500px;
+    height: 350px;
+    text-align: justify;
+}
+#parrafo4{
+    color: rgb(0, 0, 0);
+    width: 500px;
+    height: 350px;
+    text-align: justify;
+}
+footer {
+
+    background-color: rgb(231, 46, 46);
+
+    color: white;
+
+    text-align: center;
+
+    padding: 10px 0;
+
+}
+
+.redes-sociales img {
+
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+
+}
