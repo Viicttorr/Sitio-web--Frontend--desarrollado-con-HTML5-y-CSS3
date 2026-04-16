@@ -1,4 +1,4 @@
-# 🌐 Evaluación 1 - Frontend (HTML + CSS)
+# 🌐 Sitio web (Frontend) desarrollado con HTML5 y CSS3
 
 Este proyecto corresponde a la **primera evaluación sumativa de Frontend**.  
 El objetivo fue aplicar lo aprendido en **HTML y CSS**, además de practicar el uso de **Git y GitHub** para subir un proyecto.
